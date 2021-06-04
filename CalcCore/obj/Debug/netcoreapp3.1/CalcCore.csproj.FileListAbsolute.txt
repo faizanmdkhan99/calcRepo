@@ -1,0 +1,13 @@
+D:\Azure training\AzureD8\CalcCore\bin\Debug\netcoreapp3.1\CalcCore.exe
+D:\Azure training\AzureD8\CalcCore\bin\Debug\netcoreapp3.1\CalcCore.deps.json
+D:\Azure training\AzureD8\CalcCore\bin\Debug\netcoreapp3.1\CalcCore.runtimeconfig.json
+D:\Azure training\AzureD8\CalcCore\bin\Debug\netcoreapp3.1\CalcCore.runtimeconfig.dev.json
+D:\Azure training\AzureD8\CalcCore\bin\Debug\netcoreapp3.1\CalcCore.dll
+D:\Azure training\AzureD8\CalcCore\bin\Debug\netcoreapp3.1\CalcCore.pdb
+D:\Azure training\AzureD8\CalcCore\obj\Debug\netcoreapp3.1\CalcCore.csprojAssemblyReference.cache
+D:\Azure training\AzureD8\CalcCore\obj\Debug\netcoreapp3.1\CalcCore.AssemblyInfoInputs.cache
+D:\Azure training\AzureD8\CalcCore\obj\Debug\netcoreapp3.1\CalcCore.AssemblyInfo.cs
+D:\Azure training\AzureD8\CalcCore\obj\Debug\netcoreapp3.1\CalcCore.csproj.CoreCompileInputs.cache
+D:\Azure training\AzureD8\CalcCore\obj\Debug\netcoreapp3.1\CalcCore.dll
+D:\Azure training\AzureD8\CalcCore\obj\Debug\netcoreapp3.1\CalcCore.pdb
+D:\Azure training\AzureD8\CalcCore\obj\Debug\netcoreapp3.1\CalcCore.genruntimeconfig.cache
